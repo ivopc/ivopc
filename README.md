@@ -3,7 +3,7 @@
 
 ### <👤> About me </👤>
 
-My name is Ivo and I'm brazillian. I'm a **Full Stack Web Developer** and **Game Developer**.  I'm proactive, dedicated and love challenges! Passionate to open source and love to help and teach people about coding. Currently I'm creating a higly advanced and full-featured MMORPG game called [Monster Valle](https://github.com/ivopc/Monster-Valle) based on Pokémon with a wonderful team using JavaScript, NodeJS, PhaserJS, VueJS. I love to work and create my own architectural and engineering creative solutions, a world class, non-programmers friendly, scriptable, flexible and customizable MMORPG game engine will be a consequence of my game.
+My name is Ivo and I'm brazillian. I'm a **Full Stack Web Developer** and **Game Developer**, **JavaScript** and **TypeScript** specialist.  I'm proactive, dedicated and love challenges! Passionate to open source and love to help and teach people about coding. Currently I'm creating a higly advanced and full-featured MMORPG game called [Monster Valle](https://github.com/ivopc/Monster-Valle) based on Pokémon with a wonderful team using JavaScript, NodeJS, PhaserJS, VueJS. I love to work and create my own architectural and engineering creative solutions, a world class, non-programmers friendly, scriptable, flexible and full customizable MMORPG game engine will be a consequence of my game.
 
 ---
 
