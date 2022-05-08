@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello+there+%F0%9F%91%8B+%F0%9F%98%83)](https://git.io/typing-svg)
  
 
-### 👤 About me 👤
+### <👤> About me </👤>
 
-My name is Ivo and I'm brazillian. I'm a **Full Stack Web Developer** and **Game Developer**.  I'm proactive, dedicated and love challenges! Currently I'm creating a higly advanced and full-featured MMORPG game called Monster Valle based on Pokémon with a wonderful team using JavaScript, NodeJS, PhaserJS, VueJS. I love to work and create my own architectural and engineering creative solutions, a world class, non-programmers friendly, scritable, flexible and customizable MMORPG game engine will be a consequence of my game.
+My name is Ivo and I'm brazillian. I'm a **Full Stack Web Developer** and **Game Developer**.  I'm proactive, dedicated and love challenges! Passionate to open source and love to help and teach people about coding. Currently I'm creating a higly advanced and full-featured MMORPG game called [Monster Valle](https://github.com/ivopc/Monster-Valle) based on Pokémon with a wonderful team using JavaScript, NodeJS, PhaserJS, VueJS. I love to work and create my own architectural and engineering creative solutions, a world class, non-programmers friendly, scriptable, flexible and customizable MMORPG game engine will be a consequence of my game.
 
 ---
 
@@ -22,4 +22,4 @@ My name is Ivo and I'm brazillian. I'm a **Full Stack Web Developer** and **Game
 
 ### <📊> GitHub stats </📊>
 
-[![ivopc' GitHub stats](https://github-readme-stats.vercel.app/api?username=ivopc&show_icons=true&theme=dark&text_color=fff&border_color=79ff97&hide_title=true)](https://github.com/bugahontas) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivopc&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/bugahontas) 
+[![ivopc' GitHub stats](https://github-readme-stats.vercel.app/api?username=ivopc&show_icons=true&theme=dark&text_color=fff&border_color=79ff97&hide_title=true)](https://github.com/ivopc) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivopc&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/ivopc) 
