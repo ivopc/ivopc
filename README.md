@@ -7,7 +7,7 @@ My name is Ivo and I'm brazillian. I'm a **Full Stack Web Developer** and **Game
 
 Currently I'm creating a highly advanced and full-featured MMORPG game called [Monster Valle](https://github.com/ivopc/Monster-Valle) based on Pokémon using JavaScript, NodeJS, PhaserJS, VueJS and websockets with a wonderful team. 
 
-I love to work and create my own architectural and engineering creative solutions, a world class, non-programmers friendly, scriptable, flexible and full customizable MMORPG game engine like RPG Maker will be a consequence of my game. Everything in that project challenged me to be a multiplayer online games specialist developer.
+I love to work and create my own architectural and engineering creative solutions. A world class, non-programmers friendly, scriptable, flexible and full customizable MMORPG game engine like RPG Maker will be a consequence of my game. Everything in that project challenged me to be a multiplayer online games developer specialist.
 
 ---
 
