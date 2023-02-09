@@ -3,11 +3,11 @@
 
 ### <👤> About me </👤>
 
-My name is Ivo and I'm brazillian. I'm a **Full Stack Web Developer** and **Game Developer**. **JavaScript** and **TypeScript** specialist mainly with **NodeJS**, **VueJS**, **NuxtJS**, and **PhaserJS**. Passionate to open source and love to help and teach people about programming. I'm proactive, dedicated and love challenges. About my career: I have a lot of ideas and ambitious projects <3
+My name is Ivo and I'm brazillian. I'm a **Full Stack Web Developer** and **Game Developer**. **JavaScript** and **TypeScript** mainly with **NodeJS**, **VueJS**, **NuxtJS**, and **PhaserJS**. Passionate to open source and love to help and teach people about programming. I'm proactive, dedicated and love challenges.
 
-Currently I'm creating a highly advanced and full-featured MMORPG game called [Monster Valle](https://github.com/ivopc/Monster-Valle) based on Pokémon using JavaScript, NodeJS, PhaserJS, VueJS and websockets with a wonderful team. 
+I made a full-featured MMORPG game called [Monster Valle](https://github.com/ivopc/Monster-Valle) based on Pokémon using JavaScript, NodeJS, PhaserJS, VueJS and websockets with a wonderful team. 
 
-I love to work and create my own architectural and engineering creative solutions. A world class, non-programmers friendly, scriptable, flexible and full customizable MMORPG game engine like RPG Maker will be a consequence of my game. Everything in that project challenged me to be a multiplayer online games developer specialist.
+I love to work and create my own architectural and engineering creative solutions. A non-programmers friendly, scriptable, flexible and full customizable MMORPG game engine like RPG Maker will be a consequence of my game.
 
 ---
 
