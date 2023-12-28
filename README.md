@@ -11,7 +11,7 @@ I love to work and create my own architectural and engineering creative solution
 
 ---
 
-### <🛠> Main Stack </🛠>
+### <🛠> Main Tools </🛠>
 
 ![JS badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 ) ![TS badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![badge](https://raw.githubusercontent.com/photonstorm/phaser/v2.6.2/resources/Phaser%20Logo/2D%20Text/Phaser%202D%20No%20Glow.png) ![badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![badge](https://img.shields.io/badge/React-007ACC?style=for-the-badge&logo=react&logoColor=white) ![badge](https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
@@ -19,7 +19,7 @@ I love to work and create my own architectural and engineering creative solution
 
 ---
 
-### <🛠> Secondary Stack </🛠>
+### <🛠> Secondary Tools </🛠>
 
 ![badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![badge](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![badge](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white) ![badge](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
