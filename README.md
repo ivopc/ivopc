@@ -29,4 +29,4 @@ I love to work and create my own architectural and engineering creative solution
 
 ### <📊> GitHub stats </📊>
 
-[![ivopc' GitHub stats](https://github-readme-stats.vercel.app/api?username=ivopc&show_icons=true&theme=dark&text_color=fff&border_color=79ff97&hide_title=true)](https://github.com/ivopc) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivopc&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/ivopc) 
+[![ivopc' GitHub stats](https://github-readme-stats.vercel.app/api?username=ivopc&show_icons=true&theme=dark&count_private=true&hide=contribs)](https://github.com/ivopc) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivopc&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/ivopc) 
