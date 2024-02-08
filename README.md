@@ -20,13 +20,14 @@ I love to work and create my own architectural and engineering creative solution
 ![Linux badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![badge](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)  ![badge](https://img.shields.io/badge/Ubuntu-A81D33?style=for-the-badge&logo=ubuntu&logoColor=white) ![Adobe Photoshop](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=31A8FF&logo=Adobe+Photoshop&logoColor=FFFFFF&label=)
 
 
----
-
 ### <🛠> Secondary Tools </🛠>
 
 ![badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![badge](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![badge](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white) ![badge](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white) ![pixijs](https://img.shields.io/static/v1?style=for-the-badge&message=pixijs&color=0096FA&logo=pixiv&logoColor=FFFFFF&label=)
 
-## <📚> Currently Studying </📚>
+---
+
+
+### <📚> Currently Studying </📚>
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ---
