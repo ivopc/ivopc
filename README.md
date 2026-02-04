@@ -36,7 +36,7 @@ I love to work and create my own architectural and engineering creative solution
 
 ### <📊> GitHub Stats </📊>
 
-[![ivopc' GitHub stats](https://github-readme-stats.vercel.app/api?username=ivopc&show_icons=true&theme=dark&count_private=true&hide=contribs)](https://github.com/ivopc)
+![ivopc GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ivopc&show_icons=true&theme=radical)
 
 ---
 
