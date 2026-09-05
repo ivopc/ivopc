@@ -3,7 +3,7 @@
 
 ### <👤> About me </👤>
 
-My name is Ivo and I'm brazillian. I'm a **Full Stack Web Developer**, **Game Developer**. **JavaScript**, **TypeScript** and **C/C++** mainly with **NodeJS**, **VueJS**, **ReactJS**, **NuxtJS**, **NextJS**, **NestJS**, **strapi** and **PhaserJS**. **Axmol**/**Cocos2d**, **SDL**, **SFML** and **OpenGL** for **C++**. Passionate to open source and an active member of open source community, love to help and teach people about programming. I'm proactive, dedicated and love challenges.
+My name is Ivo and I'm brazillian. I'm a **Full Stack Web Developer**, **Game Developer** and **embedded system developer**. **JavaScript**, **TypeScript** and **C/C++** for web development mainly with **NodeJS**, **VueJS**, **ReactJS**, **NuxtJS**, **NextJS**, **NestJS**, **strapi** and **PhaserJS**. **Axmol**/**Cocos2d**, **SDL**, **SFML** and **OpenGL** for **C++**. Passionate to open source and an active member of open source community, love to help and teach people about programming. I'm proactive, dedicated and love challenges.
 
 I made a full-featured MMORPG game called [Monster Valle](https://github.com/ivopc/Monster-Valle) based on Pokémon using JavaScript, NodeJS, PhaserJS, VueJS and websockets with a wonderful team. 
 
@@ -29,9 +29,8 @@ I love to work and create my own architectural and engineering creative solution
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 
----
-
-
+### <🛠> Cloud, Container, Git, Infra, CI/CD and DevOps in general </🛠>
+Amazon Web Services, Digital Ocean, Heroku, Render, Vercel, VPS and Cloud. Docker. Git, GitHub, GitLab, CI/CD. Linux Server, Windows Server, SSH, Nginx and Apache. SSL/TLS, Let's Encrypt, DNS, Certbot. Crowdsec, Fail2Ban, Prometheus, Grafana, Prometheus, Lynis.
 
 ---
 
