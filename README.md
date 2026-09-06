@@ -29,7 +29,7 @@ I love to work and create my own architectural and engineering creative solution
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 
-### <🛠> Cloud, Container, Git, Infra, CI/CD and DevOps in general </🛠>
+### Cloud, Container, Git, Infra, CI/CD and DevOps in general
 Amazon Web Services, Digital Ocean, Heroku, Render, Vercel, VPS and Cloud. Docker. Git, GitHub, GitLab, CI/CD. Linux Server, Windows Server, SSH, Nginx and Apache. SSL/TLS, Let's Encrypt, DNS, Certbot. Crowdsec, Fail2Ban, Prometheus, Grafana, Prometheus, Lynis.
 
 ---
